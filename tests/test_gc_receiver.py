@@ -32,7 +32,6 @@ def read_circuit_from_file(filename):
 
 
 filename = "circuit/basic/mult64.txt"
-# filename = "and-4.txt"
 circuit = read_circuit_from_file(filename)
 
 inputs = [PlaceHolder(), Int(201)]
