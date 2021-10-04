@@ -55,3 +55,7 @@ outputs = p2(inputs)
 ```
 
 And both player will get output `300`.
+
+### Acknowlegement
+
+The implementation mainly follows the protocol in the great book [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org/).
